@@ -9,7 +9,7 @@ var asjsconfig = {
     asjs8: { hover: "", url: window.location.href, target: "same_window", upColor: "#ffe681", overColor: "#ffe681", downColor: "#ffe681", active: !0 },
     asjs9: { hover: "", url: window.location.href, target: "same_window", upColor: "#ffe681", overColor: "#ffe681", downColor: "#ffe681", active: !0 },
     asjs10: { hover: "", url: window.location.href, target: "same_window", upColor: "#ffe681", overColor: "#ffe681", downColor: "#ffe681", active: !0 },
-    asjs11: { hover: "India", url: window.location.href + "https://hannahgloria2020.github.io/india.html", target: "same_window", upColor: "#CF8057", overColor: "grey", downColor: "#CF8057", active: !0 },
+    asjs11: { hover: "https://hannahgloria2020.github.io/india.html", url: window.location.href + "https://hannahgloria2020.github.io/india.html", target: "same_window", upColor: "#CF8057", overColor: "grey", downColor: "#CF8057", active: !0 },
     asjs12: { hover: "", url: window.location.href, target: "same_window", upColor: "#ffe681", overColor: "#ffe681", downColor: "#ffe681", active: !0 },
     asjs13: { hover: "", url: window.location.href, target: "same_window", upColor: "#ffe681", overColor: "#ffe681", downColor: "#ffe681", active: !0 },
     asjs14: { hover: "", url: window.location.href, target: "same_window", upColor: "#ffe681", overColor: "#ffe681", downColor: "#ffe681", active: !0 },
