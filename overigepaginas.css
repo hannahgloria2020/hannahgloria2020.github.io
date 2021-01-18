@@ -1,0 +1,52 @@
+div.a {
+ text-align: center;
+ font-size: 200%;
+}
+
+div.b {
+  text-align: center;
+  font-size: 200%;
+  font-family:'PT Sans Narrow', sans-serif;
+}
+  
+body {
+  color: black;
+  margin-left: 4vw;
+  background-color: #f5e8e7 ;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  border-style: solid;
+  border-width: 20px 100px
+  text-align: center;
+  color: white;
+  border: #cf8057;
+  padding: 30px;
+  background-color: #cf8057;
+  text-decoration: none;
+}
+
+div.c {
+  font-size: 175%;
+  
+}
+div.p {
+  font-size: 100%;
+  margin-left: 5vw;
+}
+.ramen {
+  width: 50%;
+  height: 50%;
+    }
+    
+.landen {
+  margin-right: 2vw;
+  text-align: right;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
